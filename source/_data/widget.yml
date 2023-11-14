@@ -1,0 +1,15 @@
+# 教程：https://butterfly.js.org/posts/ea33ab97/#%E6%A0%BC%E5%BC%8F
+# top:  # 创建的 widget 会出现在非 sticky 区域（即所有页面都会显示)
+#   - class_name:
+#     id_name:
+#     name:
+#     icon:
+#     html:
+
+# bottom: 创建的 widget 会出现在 sticky 区域（除了文章页都会显示)
+#   - class_name:
+#     id_name:
+#     name:
+#     icon:
+#     order:
+#     html:
