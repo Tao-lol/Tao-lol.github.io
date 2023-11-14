@@ -5,8 +5,8 @@ tags:
 categories:
   - 杂谈
 date: 2019-08-30 10:42:19
-# mathjax: true
-katex: true
+mathjax: true
+# katex: true
 ---
 
 > Markdown：  
