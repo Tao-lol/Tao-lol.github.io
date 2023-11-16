@@ -708,7 +708,7 @@ click_heart:
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 clickShowText:
-  enable: true
+  enable: false
   text:
     # - I
     # - LOVE
