@@ -7114,5 +7114,8 @@ Spine【Linux上的PS4模拟器】（暂无网站）
 [distil-whisper/distil-large-v2 · Hugging Face](https://huggingface.co/distil-whisper/distil-large-v2)  
 [EtchDroid](https://github.com/EtchDroid/EtchDroid)  
 [扫雷游戏 - 经典小游戏网页版](https://minesweeperplay.online/)  
+[任天堂明星大乱斗特别版全命魂介绍 - 探索游戏百科，领略乱斗乐趣](https://ssbuspirits.top/)  
+[基于 .NET 6 的在线音视频聊天项目](https://github.com/qian-o/Dimension)  
+[Deepface](https://github.com/serengil/deepface)  
 []()  
 []()  
